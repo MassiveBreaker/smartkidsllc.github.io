@@ -1,5 +1,5 @@
 ---
 title: Godot Advanced
-sidebar_position: 2
+sidebar_position: 1
 description: Advanced Godot Course
 ---
